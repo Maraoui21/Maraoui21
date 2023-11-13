@@ -5,7 +5,6 @@
 <p align="left">
 <a href="https://codepen.io/yassine21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yassine21" height="30" width="40" /></a>
 <a href="https://twitter.com/yassinemaraoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yassinemaraoui" height="30" width="40" /></a>
-<a href="https://fb.com/yassine.ma.3192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yassine.ma.3192" height="30" width="40" /></a>
 <a href="https://instagram.com/yassin.mara8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yassin.mara8" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/maraoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maraoui" height="30" width="40" /></a>
 </p>
